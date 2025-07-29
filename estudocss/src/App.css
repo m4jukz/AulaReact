@@ -1,0 +1,38 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+h1
+{
+    color : rgb(255, 255, 255);
+    background-color: rgb(15, 140, 178);
+    margin : 0;
+    text-align: center;
+    padding:20px;
+}
+li
+{
+    color : #0032d6;
+}
+p
+{
+font-size: 20px;
+text-align: justify;
+padding-left: 10px;
+padding-right: 10px;
+}
+img
+{
+    width: 400px;
+    border : 30px solid black;
+    border-radius: 10px;
+}
+.centro
+{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    border : 2px dashed blue;
+}
