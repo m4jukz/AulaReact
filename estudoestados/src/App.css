@@ -2,12 +2,12 @@ body
 {
 margin : 0;
 padding: 0;
-background-color: rgb(98, 185, 240);
+background-color: rgb(238, 98, 238);
 }
 
 h1
 {
-background-color: rgb(65, 132, 255);
+background-color: rgb(201, 56, 191);
 color:rgb(255, 255, 255);
 margin: 0;
 padding: 20px;
@@ -17,7 +17,7 @@ text-align: center;
 
  .conteudo
  {
-background-color: rgb(79, 142, 251);
+background-color: rgb(245, 165, 233);
 width: 700px;
 margin: 20px auto;
 padding: 20px;
@@ -29,7 +29,7 @@ border-radius: 10px;
 
  .conteudo a
  {
-    color: rgb(255, 255, 255);
+    color: rgb(201, 4, 4);
     text-decoration: none;
  }
  
