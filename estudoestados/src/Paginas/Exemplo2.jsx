@@ -6,7 +6,7 @@ export default function Exemplo2() {
     let n1, n2, media;
     n1 = Number(numero1);
     n2 = Number(numero2);
-    media = n1 + n2 /2; 
+    media = (n1 + n2) / 2; 
    
     setResultado (" A média dos números é " + media);
   }
